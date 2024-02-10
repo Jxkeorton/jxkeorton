@@ -9,14 +9,6 @@ Based in the United Kingdom and looking for a junior software engineering role. 
 * NODE.JS
 * HTML, CSS, JS
 
-<div style="margin: 10px">
-[<img src="https://github.com/Jxkeorton/jxkeorton/blob/main/Base%20app.png?raw=true" alt='base map app' height='70' />](https://apps.apple.com/us/app/base-map/id6470670905)
-</div>
-
-<div style="margin: 10px">
-[<img src="https://github.com/Jxkeorton/jxkeorton/blob/main/store.png?raw=true" alt='base map app' height='70' />](https://www.traversebase.co.uk/)
-</div>
-
-<div style="margin: 10px">
+[<img src="https://github.com/Jxkeorton/jxkeorton/blob/main/Base%20app.png?raw=true" alt='base map app' height='70' />](https://apps.apple.com/us/app/base-map/id6470670905) 
+[<img src="https://github.com/Jxkeorton/jxkeorton/blob/main/store.png?raw=true" alt='base map app' height='70' />](https://www.traversebase.co.uk/) 
 [<img src="https://github.com/Jxkeorton/jxkeorton/blob/main/UKCJ%20Map.png?raw=true" alt='base map app' height='70' />](https://ukcj-map.com/)
-</div>
