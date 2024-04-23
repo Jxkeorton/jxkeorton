@@ -1,4 +1,3 @@
-![Junior Software Engineer](https://media.licdn.com/dms/image/D4E16AQHuyY2y0eOXSA/profile-displaybackgroundimage-shrink_350_1400/0/1706447561978?e=1712793600&v=beta&t=5JcZRiMOfyDHrJLyNLLTFzFFZZb5sp_6yFe5gtvbjok)
 
 # Hi I'm Jake👋
 ## Junior Software Engineer
