@@ -5,7 +5,7 @@ Based in the United Kingdom and looking for a junior software engineering role. 
 
 ### Skills 💻
 * REACT
-* NODE.JS
+* NEXT.JS
 * HTML, CSS, JS
 
 ### Noteworthy Projects
